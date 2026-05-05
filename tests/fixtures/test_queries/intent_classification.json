@@ -1,0 +1,7 @@
+[
+    {"query": "How is my portfolio health?", "expected_agent": "portfolio_health_agent"},
+    {"query": "What is the concentration risk in my account?", "expected_agent": "portfolio_health_agent"},
+    {"query": "Buy 10 shares of AAPL", "expected_agent": "trade_agent"},
+    {"query": "What is the current price of TSLA?", "expected_agent": "market_agent"},
+    {"query": "Tell me a joke", "expected_agent": "stub_agent"}
+]
